@@ -4,6 +4,12 @@ I'm Marcelo Escamilla, a colombian systems engineer student. I like many things,
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<table>
+    <tr>
+        <td>Foo</td>
+    </tr>
+</table>
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
