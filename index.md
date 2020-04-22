@@ -4,9 +4,8 @@ I'm Marcelo Escamilla, a colombian systems engineer student. I like many things,
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<script>
-alert('hello world');
-</script>
+<script src="https://cdn.jsdelivr.net/npm/p5@1.0.0/lib/p5.js"></script>
+<script src="sketch.js"></script>
 
 ### Markdown
 
